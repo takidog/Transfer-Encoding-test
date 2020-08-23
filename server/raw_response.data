@@ -1,0 +1,41 @@
+HTTP/1.1 200 OK
+Server: Jaguar Server Version 5.5.0
+Set-Cookie: JSESSIONID=privateData;Path=/none
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked 
+Set-Cookie: SKIcpAfErC/P=v1EpyrBQ@@23S; Expires=Wed, 21-Aug-2030 14:49:18 GMT; Path=/
+
+22f
+﻿	
+<html>
+<title></title>
+<head>
+<META HTTP-EQUIV="Pragma" content="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<META HTTP-EQUIV="Content-Type" content="text/html;charset=UTF-8">
+<script language='javascript'>
+function showalert(msgfilename){
+	obj = window.open (msgfilename,"msgwindow","height=500,width=700,scrollbars=1");
+}
+</script>
+</head>
+
+<body style="margin-top:0;margin-left:0;" bgcolor="#dcdcdc">
+
+
+
+
+
+
+
+
+ 
+
+
+<script language='javascript'>top.location.href='f_index.html';</script>
+
+</body>
+</html>
+0
+
